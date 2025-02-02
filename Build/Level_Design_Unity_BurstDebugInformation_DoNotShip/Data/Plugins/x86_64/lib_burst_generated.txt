@@ -9,6 +9,7 @@ Library: C:\Users\Mikołaj\Desktop\LVLDesign\LVLDesign\Level_Design_Unity\Temp\B
 --target-framework=NetFramework
 --assembly-defines=UnityEngine;
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
@@ -85,6 +86,7 @@ Library: C:\Users\Mikołaj\Desktop\LVLDesign\LVLDesign\Level_Design_Unity\Temp\B
 --target-framework=NetFramework
 --assembly-defines=UnityEngine;
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.ProBuilder.Stl;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.ProBuilder;
